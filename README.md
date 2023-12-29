@@ -2,7 +2,7 @@
 This is just a toy project I made to test out how I would go about making an http server in rust.
 
 ## Run / Install
-you need cargo for compiling this project. get cargo at: [https://doc.rust-lang.org/cargo/getting-started/installation.html](rustdocs)  
+you need cargo for compiling this project. get cargo at: [rustdocs](https://doc.rust-lang.org/cargo/getting-started/installation.html)  
 ```sh
 cargo run
 ```
